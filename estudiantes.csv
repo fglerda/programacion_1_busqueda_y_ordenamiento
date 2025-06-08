@@ -1,0 +1,501 @@
+legajo,nombre,apellido,fecha_nacimiento,carrera,promedio,creditos_aprobados,email
+1,Joaquín,Molina Suárez,2001-09-22,Medicina,8.89,245,joaquinmolinasuarez95@alumnos.miuni.net
+2,Esteban,Aguirre Gutiérrez,1997-06-14,Licenciatura en Biología,8.95,220,estebanaguirregutierrez91@alu.universidad.edu
+3,Ana,García Romero,1997-05-12,Ingeniería Electrónica,8.1,110,anagarciaromero23@alumnos.miuni.net
+4,Emilia,Alonso Silva,1997-10-14,Licenciatura en Comunicación Social,6.18,5,emiliaalonsosilva85@alumnos.miuni.net
+5,Emilia,Paz Suárez,2001-07-24,Ingeniería en Sistemas,7.44,142,emiliapazsuarez59@alumnos.miuni.net
+6,Julieta,Moreno Rivera,2005-07-18,Licenciatura en Ciencias de la Computación,7.3,80,julietamorenorivera65@alumnos.miuni.net
+7,Gonzalo,Paz García,1997-09-08,Licenciatura en Ciencias de la Computación,7.41,152,gonzalopazgarcia65@estudiante.facu.ar
+8,Sergio,Reyes Castillo,1999-12-27,Contador Público,4.14,11,sergioreyescastillo52@estudiante.facu.ar
+9,Miguel,Sánchez Gómez,2005-04-13,Licenciatura en Biología,6.36,0,miguelsanchezgomez20@estudiante.facu.ar
+10,Alejandro,Aguirre Alonso,2001-03-07,Profesorado de Educación Física,4.05,40,alejandroaguirrealonso11@estudiante.facu.ar
+11,Facundo,Ruiz Paz,2005-12-30,Licenciatura en Psicología,5.42,59,facundoruizpaz24@alu.universidad.edu
+12,Juan,Rodríguez Romero,1998-05-10,Ingeniería Electrónica,4.27,54,juanrodriguezromero44@alumnos.miuni.net
+13,Pedro,Romero Castillo,1999-08-26,Licenciatura en Biología,7.29,115,pedroromerocastillo40@estudiante.facu.ar
+14,Victoria,Navarro González,2002-09-18,Licenciatura en Psicología,8.21,145,victorianavarrogonzalez17@alumnos.miuni.net
+15,Marcos,Morales Rodríguez,1999-06-17,Ingeniería en Sistemas,7.79,80,marcosmoralesrodriguez18@alu.universidad.edu
+16,Sofía,Rivera Cabrera,2005-08-07,Diseño Gráfico,9.41,250,sofiariveracabrera62@alumnos.miuni.net
+17,Mariana,Acosta Rivas,1999-11-27,Licenciatura en Artes Visuales,5.11,26,marianaacostarivas17@estudiante.facu.ar
+18,Pablo,Delgado Núñez,2005-10-01,Profesorado de Educación Física,4.91,53,pablodelgadonunez84@estudiante.facu.ar
+19,Juan,Rivera Ramírez,1999-09-10,Ingeniería Electrónica,5.28,57,juanriveraramirez70@alumnos.miuni.net
+20,Delfina,Ruiz Morales,2001-11-28,Contador Público,4.66,31,delfinaruizmorales38@alu.universidad.edu
+21,Alejandro,Moreno Luna,1997-09-22,Licenciatura en Ciencias de la Computación,6.64,164,alejandromorenoluna21@alu.universidad.edu
+22,Gabriel,Castillo Flores,1995-04-06,Arquitectura,4.45,59,gabrielcastilloflores46@estudiante.facu.ar
+23,Juan,Rivas Mendoza,1999-10-08,Licenciatura en Geología,5.52,5,juanrivasmendoza59@alumnos.miuni.net
+24,Brenda,Vargas Vidal,1999-08-06,Contador Público,4.15,18,brendavargasvidal70@alu.universidad.edu
+25,Laura,Silva Benítez,2002-05-16,Abogacía,8.36,99,laurasilvabenitez64@alu.universidad.edu
+26,Juan,Campos Rivera,2004-03-29,Licenciatura en Ciencias de la Computación,6.36,12,juancamposrivera58@alu.universidad.edu
+27,Valeria,Alonso Ramírez,2003-12-15,Ingeniería Electrónica,7.93,129,valeriaalonsoramirez42@alu.universidad.edu
+28,Valentina,Vega García,2005-07-30,Medicina,8.08,171,valentinavegagarcia44@alu.universidad.edu
+29,Carlos,Cortés Díaz,2003-03-19,Diseño Gráfico,7.05,164,carloscortesdiaz5@alu.universidad.edu
+30,Emilia,Acosta Rivas,2003-03-09,Medicina,4.18,1,emiliaacostarivas81@estudiante.facu.ar
+31,Isabella,Núñez Miranda,1998-12-23,Licenciatura en Geología,6.72,76,isabellanunezmiranda68@alu.universidad.edu
+32,José,Gutiérrez Reyes,2002-09-24,Profesorado de Educación Física,7.63,82,josegutierrezreyes16@estudiante.facu.ar
+33,Pedro,Navarro Castro,1995-07-17,Ingeniería Civil,8.21,162,pedronavarrocastro47@estudiante.facu.ar
+34,Joaquín,Ramírez Rivera,2000-02-22,Profesorado de Educación Física,7.67,111,joaquinramirezrivera25@estudiante.facu.ar
+35,Pedro,García Flores,2004-09-20,Licenciatura en Geología,4.89,11,pedrogarciaflores75@alu.universidad.edu
+36,Santiago,Sánchez Rodríguez,1996-05-18,Diseño Gráfico,8.7,195,santiagosanchezrodriguez2@alumnos.miuni.net
+37,Julieta,Benítez Martínez,2001-12-11,Profesorado de Educación Física,5.6,29,julietabenitezmartinez87@alu.universidad.edu
+38,Camila,Moreno Romero,2005-12-16,Licenciatura en Administración,5.65,2,camilamorenoromero14@alumnos.miuni.net
+39,Christian,Alonso Rodríguez,2001-11-04,Ingeniería Civil,4.92,23,christianalonsorodriguez92@alu.universidad.edu
+40,Ricardo,Miranda Campos,2001-03-01,Licenciatura en Artes Visuales,4.82,8,ricardomirandacampos16@alumnos.miuni.net
+41,Facundo,Herrera Navarro,2003-06-15,Contador Público,7.29,154,facundoherreranavarro94@alu.universidad.edu
+42,Rafael,González Delgado,2003-05-30,Contador Público,5.78,11,rafaelgonzalezdelgado29@alumnos.miuni.net
+43,Gabriel,Vargas Salazar,1995-01-17,Medicina,9.78,237,gabrielvargassalazar41@alumnos.miuni.net
+44,Victoria,Romero Luna,2004-02-06,Profesorado de Educación Física,9.77,299,victoriaromeroluna55@alumnos.miuni.net
+45,Lucía,Rivas Rojas,1995-12-13,Licenciatura en Geología,6.02,36,luciarivasrojas86@estudiante.facu.ar
+46,Manuel,Vega Castro,2004-02-04,Licenciatura en Ciencias de la Computación,6.99,80,manuelvegacastro20@estudiante.facu.ar
+47,Ana,Alonso Herrera,2000-12-22,Arquitectura,7.29,98,anaalonsoherrera38@alu.universidad.edu
+48,María,Silva Rodríguez,1995-08-02,Contador Público,5.08,43,mariasilvarodriguez13@alu.universidad.edu
+49,Sergio,Sánchez Mendoza,2002-07-18,Licenciatura en Administración,5.37,23,sergiosanchezmendoza45@alumnos.miuni.net
+50,Alejandro,Martínez Rojas,1999-08-14,Licenciatura en Artes Visuales,7.66,155,alejandromartinezrojas84@alu.universidad.edu
+51,Sergio,Romero Salazar,2001-09-01,Abogacía,9.63,215,sergioromerosalazar50@alu.universidad.edu
+52,Lucía,Aguirre Flores,2002-09-29,Arquitectura,8.52,250,luciaaguirreflores52@alu.universidad.edu
+53,Julieta,García Paz,2002-09-30,Medicina,6.47,48,julietagarciapaz27@alumnos.miuni.net
+54,Pablo,Castillo Gómez,1997-12-16,Ingeniería Civil,4.68,11,pablocastillogomez50@estudiante.facu.ar
+55,Rafael,Rodríguez Benítez,1999-02-04,Licenciatura en Artes Visuales,9.35,264,rafaelrodriguezbenitez10@alumnos.miuni.net
+56,Antonia,Miranda Sánchez,1998-10-27,Arquitectura,9.44,218,antoniamirandasanchez63@estudiante.facu.ar
+57,Emilia,Salazar Morales,2003-05-06,Ingeniería Electrónica,4.75,26,emiliasalazarmorales8@alumnos.miuni.net
+58,Pedro,Vidal Campos,2000-03-23,Licenciatura en Ciencias de la Computación,9.21,199,pedrovidalcampos33@estudiante.facu.ar
+59,Julieta,Herrera Navarro,2002-08-10,Arquitectura,7.95,84,julietaherreranavarro7@alu.universidad.edu
+60,Valentina,Paz Molina,2000-09-20,Ingeniería en Sistemas,8.4,165,valentinapazmolina80@alu.universidad.edu
+61,Laura,Acosta Cortés,1996-01-22,Contador Público,9.51,285,lauraacostacortes81@alumnos.miuni.net
+62,Lucía,García Mendoza,1995-02-01,Licenciatura en Administración,6.26,20,luciagarciamendoza70@alu.universidad.edu
+63,Gonzalo,Sánchez Benítez,2003-02-12,Abogacía,6.78,79,gonzalosanchezbenitez22@estudiante.facu.ar
+64,Santiago,Vega Aguirre,1996-05-26,Medicina,4.66,56,santiagovegaaguirre9@alumnos.miuni.net
+65,Fernando,Ortiz Vargas,1997-09-26,Arquitectura,7.62,138,fernandoortizvargas51@alu.universidad.edu
+66,Pablo,Cabrera Rivera,2004-08-27,Medicina,9.44,262,pablocabrerarivera15@estudiante.facu.ar
+67,Florencia,Rodríguez Miranda,1996-04-13,Ingeniería Electrónica,8.49,73,florenciarodriguezmiranda73@alu.universidad.edu
+68,Andrés,Molina González,2005-10-28,Licenciatura en Administración,4.12,13,andresmolinagonzalez45@estudiante.facu.ar
+69,Natalia,García Benítez,2004-05-19,Diseño Gráfico,9.79,216,nataliagarciabenitez99@estudiante.facu.ar
+70,Sergio,Vega Rivera,2005-06-21,Licenciatura en Comunicación Social,7.81,140,sergiovegarivera50@alu.universidad.edu
+71,Manuel,Campos García,1999-04-03,Ingeniería en Sistemas,6.63,157,manuelcamposgarcia45@alu.universidad.edu
+72,Ignacio,Jiménez Núñez,2002-07-20,Licenciatura en Psicología,8.57,241,ignaciojimeneznunez50@estudiante.facu.ar
+73,Isabella,Benítez Herrera,2005-09-16,Ingeniería Electrónica,5.7,54,isabellabenitezherrera42@estudiante.facu.ar
+74,Victoria,Fernández Núñez,1997-05-29,Licenciatura en Geología,5.85,4,victoriafernandeznunez15@alumnos.miuni.net
+75,Florencia,Torres Aguirre,2001-05-19,Ingeniería Electrónica,4.8,50,florenciatorresaguirre95@estudiante.facu.ar
+76,Luis,Benítez Molina,1996-08-31,Diseño Gráfico,9.14,299,luisbenitezmolina31@alu.universidad.edu
+77,Romina,Rojas Cabrera,1999-03-26,Licenciatura en Artes Visuales,6.14,12,rominarojascabrera64@alu.universidad.edu
+78,Ignacio,Vega Delgado,2002-03-08,Ingeniería en Sistemas,6.29,47,ignaciovegadelgado18@alu.universidad.edu
+79,Laura,Aguirre Vega,2004-04-02,Licenciatura en Psicología,5.02,43,lauraaguirrevega18@alumnos.miuni.net
+80,Facundo,Herrera Vargas,2005-11-04,Licenciatura en Geología,7.78,126,facundoherreravargas58@estudiante.facu.ar
+81,Romina,Suárez Sánchez,2002-01-06,Ingeniería Electrónica,5.82,48,rominasuarezsanchez65@estudiante.facu.ar
+82,Natalia,Rojas Díaz,1999-08-26,Licenciatura en Psicología,7.95,97,nataliarojasdiaz83@alumnos.miuni.net
+83,Natalia,Herrera Vega,2005-06-24,Licenciatura en Ciencias de la Computación,4.73,24,nataliaherreravega6@alumnos.miuni.net
+84,Ignacio,Delgado Silva,2001-08-29,Licenciatura en Biología,9.14,281,ignaciodelgadosilva84@alumnos.miuni.net
+85,José,Morales Díaz,2000-11-02,Licenciatura en Biología,6.74,153,josemoralesdiaz66@estudiante.facu.ar
+86,Diego,Vargas Romero,2002-11-11,Medicina,6.53,156,diegovargasromero70@estudiante.facu.ar
+87,Sofía,Rodríguez Gómez,2002-07-28,Profesorado de Educación Física,7.56,68,sofiarodriguezgomez68@estudiante.facu.ar
+88,Andrés,Navarro Reyes,1997-01-05,Licenciatura en Ciencias de la Computación,4.49,2,andresnavarroreyes49@estudiante.facu.ar
+89,Delfina,Campos Martínez,1999-07-26,Licenciatura en Artes Visuales,4.56,8,delfinacamposmartinez49@alu.universidad.edu
+90,Manuel,Díaz Navarro,2004-12-30,Ingeniería en Sistemas,5.68,47,manueldiaznavarro58@estudiante.facu.ar
+91,Luis,Pérez López,2002-06-13,Diseño Gráfico,7.44,68,luisperezlopez57@alu.universidad.edu
+92,Facundo,Miranda López,1998-07-23,Profesorado de Educación Física,5.07,35,facundomirandalopez63@estudiante.facu.ar
+93,Carolina,Cabrera Guerrero,1998-03-04,Ingeniería Electrónica,8.56,273,carolinacabreraguerrero48@alu.universidad.edu
+94,Ana,Rivera Martínez,1999-07-25,Licenciatura en Artes Visuales,6.42,30,anariveramartinez28@alumnos.miuni.net
+95,Laura,Reyes Acosta,2003-06-12,Licenciatura en Geología,6.48,55,laurareyesacosta13@estudiante.facu.ar
+96,Fernando,Torres Morales,2005-12-21,Profesorado de Educación Física,7.74,71,fernandotorresmorales11@alumnos.miuni.net
+97,Delfina,Moreno Pérez,2001-01-01,Ingeniería en Sistemas,7.31,84,delfinamorenoperez21@estudiante.facu.ar
+98,Ricardo,Díaz Martínez,1999-03-09,Licenciatura en Comunicación Social,6.09,32,ricardodiazmartinez64@estudiante.facu.ar
+99,Natalia,Cortés Moreno,2002-08-10,Licenciatura en Geología,8.02,83,nataliacortesmoreno15@estudiante.facu.ar
+100,Antonia,Pérez Herrera,2002-05-13,Licenciatura en Biología,4.01,6,antoniaperezherrera41@alu.universidad.edu
+101,Mariana,Suárez Vidal,1998-08-04,Medicina,5.77,0,marianasuarezvidal52@estudiante.facu.ar
+102,Valeria,Ruiz Vega,1996-10-10,Licenciatura en Geología,5.25,18,valeriaruizvega45@alu.universidad.edu
+103,Miguel,Vargas Gómez,2005-10-21,Licenciatura en Administración,8.31,71,miguelvargasgomez56@estudiante.facu.ar
+104,Romina,Morales Luna,1995-03-18,Arquitectura,9.49,260,rominamoralesluna24@alu.universidad.edu
+105,Facundo,Herrera Rodríguez,1997-06-17,Licenciatura en Ciencias de la Computación,6.05,38,facundoherrerarodriguez6@alumnos.miuni.net
+106,Marcos,Castro Acosta,1997-05-24,Profesorado de Educación Física,6.1,46,marcoscastroacosta1@estudiante.facu.ar
+107,Pablo,Fernández Alonso,2000-08-01,Licenciatura en Artes Visuales,6.07,25,pablofernandezalonso55@alumnos.miuni.net
+108,Diego,Fernández Martínez,2001-04-16,Ingeniería Civil,9.48,211,diegofernandezmartinez67@estudiante.facu.ar
+109,Manuel,Navarro Morales,2004-05-22,Licenciatura en Administración,4.35,53,manuelnavarromorales73@estudiante.facu.ar
+110,Valeria,López Núñez,2005-11-20,Licenciatura en Administración,4.2,43,valerialopeznunez25@alumnos.miuni.net
+111,Lucía,Delgado García,2004-02-07,Ingeniería Electrónica,9.94,227,luciadelgadogarcia37@estudiante.facu.ar
+112,Daniela,Ortiz Benítez,1995-01-24,Licenciatura en Biología,7.21,145,danielaortizbenitez77@alumnos.miuni.net
+113,Santiago,Moreno Gómez,1997-11-24,Arquitectura,5.07,6,santiagomorenogomez59@estudiante.facu.ar
+114,Isabella,Molina Moreno,1998-08-18,Medicina,9.24,181,isabellamolinamoreno11@alumnos.miuni.net
+115,Esteban,Ramírez Castillo,1995-03-13,Ingeniería en Sistemas,5.42,39,estebanramirezcastillo54@alumnos.miuni.net
+116,Diego,Rodríguez Gómez,1998-05-08,Ingeniería Civil,8.26,98,diegorodriguezgomez38@estudiante.facu.ar
+117,Brenda,Reyes García,1999-08-16,Diseño Gráfico,8.92,240,brendareyesgarcia94@estudiante.facu.ar
+118,Julieta,Benítez Díaz,1998-02-02,Ingeniería Civil,6.77,129,julietabenitezdiaz11@alu.universidad.edu
+119,Marcos,Cabrera Gómez,2002-09-01,Ingeniería Civil,4.68,35,marcoscabreragomez87@alu.universidad.edu
+120,Mariana,Morales González,1995-01-26,Licenciatura en Biología,9.99,226,marianamoralesgonzalez33@alumnos.miuni.net
+121,Florencia,Flores Mendoza,2003-11-25,Profesorado de Educación Física,5.81,28,florenciafloresmendoza5@estudiante.facu.ar
+122,Facundo,Castillo Núñez,1999-08-01,Contador Público,9.66,199,facundocastillonunez28@estudiante.facu.ar
+123,Ana,Aguirre Rivas,2002-09-21,Licenciatura en Administración,8.45,101,anaaguirrerivas23@estudiante.facu.ar
+124,Carolina,Ramírez Vega,2000-11-23,Licenciatura en Comunicación Social,9.17,181,carolinaramirezvega83@estudiante.facu.ar
+125,Agustina,Vargas Salazar,2000-05-02,Contador Público,9.35,288,agustinavargassalazar43@alumnos.miuni.net
+126,Antonia,Aguirre García,1998-06-10,Ingeniería en Sistemas,5.16,37,antoniaaguirregarcia45@alu.universidad.edu
+127,Ana,Ortiz Pérez,2000-12-03,Licenciatura en Artes Visuales,5.87,41,anaortizperez16@alu.universidad.edu
+128,Mariana,Navarro Herrera,2003-08-16,Ingeniería Electrónica,5.02,35,mariananavarroherrera30@alumnos.miuni.net
+129,Victoria,Silva Alonso,2005-04-06,Ingeniería Electrónica,4.52,23,victoriasilvaalonso70@estudiante.facu.ar
+130,José,Pérez Pérez,2003-10-13,Licenciatura en Administración,7.82,97,joseperezperez85@estudiante.facu.ar
+131,Luis,Navarro Luna,1997-07-06,Ingeniería Electrónica,7.2,119,luisnavarroluna71@alumnos.miuni.net
+132,Ricardo,Molina Gómez,1997-03-06,Licenciatura en Administración,6.47,45,ricardomolinagomez25@alumnos.miuni.net
+133,Pablo,Paz Sánchez,1995-08-16,Licenciatura en Ciencias de la Computación,7.96,119,pablopazsanchez54@alu.universidad.edu
+134,Carlos,Vidal Ramírez,1995-09-21,Arquitectura,7.31,119,carlosvidalramirez87@alu.universidad.edu
+135,Marcos,Campos Luna,2001-10-30,Licenciatura en Comunicación Social,9.51,268,marcoscamposluna65@estudiante.facu.ar
+136,Natalia,Gutiérrez Molina,1998-09-16,Licenciatura en Geología,9.41,279,nataliagutierrezmolina92@estudiante.facu.ar
+137,Diego,Aguirre Molina,2000-02-19,Profesorado de Educación Física,7.51,159,diegoaguirremolina51@estudiante.facu.ar
+138,Laura,Pérez Castro,2001-10-26,Licenciatura en Ciencias de la Computación,4.8,9,lauraperezcastro83@estudiante.facu.ar
+139,Miguel,Rivera Vega,2004-02-15,Ingeniería en Sistemas,8.95,261,miguelriveravega95@alu.universidad.edu
+140,Facundo,Guerrero Salazar,1996-08-26,Ingeniería Civil,9.24,205,facundoguerrerosalazar89@alu.universidad.edu
+141,Santiago,Gómez Luna,1998-08-06,Abogacía,5.57,5,santiagogomezluna11@alu.universidad.edu
+142,Alejandro,Jiménez Núñez,1995-06-17,Ingeniería en Sistemas,9.73,186,alejandrojimeneznunez1@estudiante.facu.ar
+143,Julieta,López Rivera,2003-02-28,Licenciatura en Biología,7.1,143,julietalopezrivera56@alu.universidad.edu
+144,Daniela,Soto Navarro,1997-07-20,Diseño Gráfico,7.77,112,danielasotonavarro60@estudiante.facu.ar
+145,Agustina,Navarro Sánchez,1998-09-24,Ingeniería Electrónica,5.89,15,agustinanavarrosanchez60@estudiante.facu.ar
+146,Santiago,Silva Alonso,2005-03-19,Licenciatura en Artes Visuales,8.18,64,santiagosilvaalonso41@alu.universidad.edu
+147,Martina,Benítez Díaz,2004-01-28,Licenciatura en Psicología,6.83,87,martinabenitezdiaz80@alumnos.miuni.net
+148,Alejandro,Molina Cabrera,1995-05-07,Arquitectura,9.0,276,alejandromolinacabrera40@alu.universidad.edu
+149,Luis,Vega Acosta,1999-05-03,Contador Público,7.37,109,luisvegaacosta79@alumnos.miuni.net
+150,José,Cortés Alonso,1997-10-03,Licenciatura en Geología,5.33,43,josecortesalonso87@estudiante.facu.ar
+151,Lucía,Molina Martínez,2004-08-21,Licenciatura en Psicología,6.46,24,luciamolinamartinez27@alumnos.miuni.net
+152,Delfina,Gómez Benítez,1998-06-18,Abogacía,7.75,175,delfinagomezbenitez92@estudiante.facu.ar
+153,Clara,Aguirre Delgado,1996-06-29,Ingeniería en Sistemas,8.09,173,claraaguirredelgado11@alu.universidad.edu
+154,Facundo,Campos Paz,2000-12-29,Medicina,7.73,86,facundocampospaz50@estudiante.facu.ar
+155,Juan,Gutiérrez Torres,2003-09-11,Licenciatura en Biología,8.16,136,juangutierreztorres35@alumnos.miuni.net
+156,Delfina,Vidal López,2003-12-09,Ingeniería en Sistemas,9.12,273,delfinavidallopez10@alumnos.miuni.net
+157,Carlos,Guerrero López,2003-12-28,Contador Público,8.1,100,carlosguerrerolopez82@estudiante.facu.ar
+158,Camila,Molina Herrera,2003-10-30,Licenciatura en Ciencias de la Computación,6.93,167,camilamolinaherrera12@estudiante.facu.ar
+159,Agustina,Moreno Vega,2001-07-25,Licenciatura en Geología,7.23,127,agustinamorenovega36@alumnos.miuni.net
+160,Mariana,Núñez Soto,1995-03-06,Ingeniería Electrónica,5.68,39,mariananunezsoto95@alumnos.miuni.net
+161,Valentina,Guerrero Rivas,2004-09-12,Contador Público,5.46,34,valentinaguerrerorivas30@alu.universidad.edu
+162,Natalia,Castillo Alonso,2000-10-24,Ingeniería Electrónica,9.68,215,nataliacastilloalonso11@estudiante.facu.ar
+163,Miguel,Sánchez Rodríguez,1995-12-30,Licenciatura en Biología,8.63,211,miguelsanchezrodriguez72@alumnos.miuni.net
+164,Antonia,Gómez Vega,1996-02-02,Ingeniería Civil,8.81,243,antoniagomezvega89@estudiante.facu.ar
+165,Mariana,Soto Reyes,2005-08-14,Licenciatura en Geología,9.84,193,marianasotoreyes81@alu.universidad.edu
+166,Valeria,Sánchez Aguirre,1999-12-11,Licenciatura en Biología,9.52,230,valeriasanchezaguirre77@alumnos.miuni.net
+167,Esteban,Delgado Herrera,1999-06-19,Profesorado de Educación Física,9.25,228,estebandelgadoherrera82@alumnos.miuni.net
+168,Daniela,Núñez González,1998-11-27,Licenciatura en Ciencias de la Computación,7.2,157,danielanunezgonzalez9@alumnos.miuni.net
+169,Javier,Gómez González,1997-06-02,Licenciatura en Administración,6.32,11,javiergomezgonzalez62@alu.universidad.edu
+170,Agustina,González Ramírez,1999-10-11,Arquitectura,5.85,26,agustinagonzalezramirez33@estudiante.facu.ar
+171,Ana,Díaz Sánchez,1996-09-07,Ingeniería en Sistemas,5.78,14,anadiazsanchez43@alumnos.miuni.net
+172,Manuel,González Acosta,2001-04-09,Medicina,8.46,162,manuelgonzalezacosta46@estudiante.facu.ar
+173,Fernando,Sánchez Morales,2001-02-20,Licenciatura en Artes Visuales,4.74,35,fernandosanchezmorales60@alumnos.miuni.net
+174,Manuel,Torres Ramírez,2000-07-26,Licenciatura en Comunicación Social,8.61,218,manueltorresramirez63@estudiante.facu.ar
+175,Pedro,Reyes Rodríguez,2000-05-24,Licenciatura en Administración,8.2,92,pedroreyesrodriguez15@alu.universidad.edu
+176,Clara,Salazar Vargas,1996-10-18,Abogacía,8.31,91,clarasalazarvargas65@alu.universidad.edu
+177,Ana,Guerrero García,2003-03-01,Diseño Gráfico,5.6,37,anaguerrerogarcia95@alu.universidad.edu
+178,Camila,Gutiérrez Núñez,2004-11-11,Licenciatura en Comunicación Social,7.7,139,camilagutierreznunez43@estudiante.facu.ar
+179,Camila,Cortés Soto,1997-10-17,Medicina,4.65,16,camilacortessoto87@estudiante.facu.ar
+180,Florencia,Vidal Paz,2004-05-04,Licenciatura en Biología,7.91,176,florenciavidalpaz96@estudiante.facu.ar
+181,Valeria,Delgado Guerrero,1995-06-09,Medicina,7.28,124,valeriadelgadoguerrero87@estudiante.facu.ar
+182,Javier,Aguirre Rodríguez,2003-10-07,Licenciatura en Biología,4.11,25,javieraguirrerodriguez59@alumnos.miuni.net
+183,Rafael,Benítez Fernández,2003-09-15,Licenciatura en Comunicación Social,8.92,230,rafaelbenitezfernandez41@estudiante.facu.ar
+184,Florencia,Molina Alonso,1998-10-30,Licenciatura en Biología,7.34,110,florenciamolinaalonso56@estudiante.facu.ar
+185,Ricardo,Gómez Ortiz,1996-03-30,Profesorado de Educación Física,5.35,20,ricardogomezortiz14@estudiante.facu.ar
+186,Christian,Mendoza Ruiz,1995-01-02,Arquitectura,7.92,87,christianmendozaruiz28@alu.universidad.edu
+187,Diego,Luna Gómez,1998-07-09,Ingeniería Electrónica,9.22,249,diegolunagomez49@estudiante.facu.ar
+188,Martina,Silva Castillo,2003-02-24,Ingeniería en Sistemas,7.35,125,martinasilvacastillo90@estudiante.facu.ar
+189,Brenda,Aguirre López,2005-04-18,Ingeniería Electrónica,8.65,215,brendaaguirrelopez67@alu.universidad.edu
+190,Pedro,Benítez Cabrera,2003-10-25,Abogacía,9.62,274,pedrobenitezcabrera54@estudiante.facu.ar
+191,Carolina,Torres Acosta,1996-06-15,Medicina,5.22,46,carolinatorresacosta59@estudiante.facu.ar
+192,Lucía,Fernández Navarro,2004-01-21,Licenciatura en Psicología,7.16,83,luciafernandeznavarro34@alu.universidad.edu
+193,Fernando,Torres Salazar,2001-06-03,Licenciatura en Comunicación Social,7.91,129,fernandotorressalazar78@alumnos.miuni.net
+194,Gonzalo,Campos Acosta,1995-09-14,Contador Público,6.26,44,gonzalocamposacosta23@alumnos.miuni.net
+195,Sofía,Suárez Luna,1998-09-18,Arquitectura,9.66,278,sofiasuarezluna17@estudiante.facu.ar
+196,Luis,Molina Pérez,2004-11-15,Licenciatura en Artes Visuales,8.74,183,luismolinaperez97@estudiante.facu.ar
+197,Fernando,Rojas Ortiz,1999-11-18,Arquitectura,8.66,188,fernandorojasortiz91@alumnos.miuni.net
+198,Gabriel,Romero Delgado,1997-09-17,Licenciatura en Geología,9.19,268,gabrielromerodelgado90@alu.universidad.edu
+199,Manuel,Campos Alonso,2002-04-12,Licenciatura en Ciencias de la Computación,5.8,43,manuelcamposalonso48@estudiante.facu.ar
+200,Sergio,Paz Morales,2000-07-11,Profesorado de Educación Física,4.0,2,sergiopazmorales11@estudiante.facu.ar
+201,Ricardo,Fernández Luna,1995-04-06,Arquitectura,9.45,211,ricardofernandezluna43@estudiante.facu.ar
+202,Manuel,Moreno Sánchez,1999-10-09,Medicina,6.71,131,manuelmorenosanchez98@alu.universidad.edu
+203,Isabella,Romero Campos,1999-09-11,Ingeniería Electrónica,7.32,147,isabellaromerocampos21@alu.universidad.edu
+204,Alejandro,Fernández Flores,1995-04-02,Ingeniería en Sistemas,4.29,8,alejandrofernandezflores23@estudiante.facu.ar
+205,Ricardo,Campos Guerrero,1996-09-13,Licenciatura en Ciencias de la Computación,8.06,103,ricardocamposguerrero18@estudiante.facu.ar
+206,Valeria,Suárez Mendoza,2005-04-17,Licenciatura en Artes Visuales,9.54,212,valeriasuarezmendoza52@alumnos.miuni.net
+207,Sofía,Díaz Acosta,2000-12-22,Licenciatura en Biología,8.98,218,sofiadiazacosta84@alu.universidad.edu
+208,Ignacio,Moreno Alonso,1996-08-24,Licenciatura en Comunicación Social,8.94,292,ignaciomorenoalonso8@estudiante.facu.ar
+209,Carolina,Castillo Rojas,1997-02-13,Licenciatura en Psicología,7.27,115,carolinacastillorojas8@alu.universidad.edu
+210,Ignacio,Navarro Castro,1998-04-06,Ingeniería en Sistemas,9.73,262,ignacionavarrocastro65@alu.universidad.edu
+211,Martina,Campos Delgado,1996-01-29,Arquitectura,5.12,53,martinacamposdelgado10@alumnos.miuni.net
+212,Facundo,Gómez Mendoza,1995-12-12,Diseño Gráfico,6.69,75,facundogomezmendoza64@alumnos.miuni.net
+213,Ignacio,Rivas González,1997-01-31,Medicina,6.71,141,ignaciorivasgonzalez27@alumnos.miuni.net
+214,Victoria,Molina Rojas,2003-11-25,Licenciatura en Psicología,8.74,231,victoriamolinarojas73@estudiante.facu.ar
+215,Santiago,Campos Fernández,2003-03-06,Licenciatura en Artes Visuales,7.76,126,santiagocamposfernandez72@alumnos.miuni.net
+216,Isabella,Martínez Benítez,1999-07-05,Licenciatura en Comunicación Social,6.72,75,isabellamartinezbenitez92@estudiante.facu.ar
+217,Esteban,Reyes Sánchez,2002-01-24,Licenciatura en Biología,4.63,44,estebanreyessanchez79@alumnos.miuni.net
+218,Romina,Núñez Delgado,2002-06-30,Licenciatura en Biología,8.62,211,rominanunezdelgado37@estudiante.facu.ar
+219,Javier,Ramírez Cortés,1999-11-28,Licenciatura en Comunicación Social,4.25,28,javierramirezcortes55@alumnos.miuni.net
+220,Brenda,Navarro Delgado,1995-11-01,Licenciatura en Psicología,6.5,44,brendanavarrodelgado22@alu.universidad.edu
+221,Antonia,Morales González,2000-09-29,Licenciatura en Artes Visuales,5.97,35,antoniamoralesgonzalez80@alu.universidad.edu
+222,Brenda,Gómez Rivas,2004-05-17,Licenciatura en Ciencias de la Computación,6.75,65,brendagomezrivas63@estudiante.facu.ar
+223,Javier,Núñez Torres,1995-09-29,Abogacía,6.47,26,javiernuneztorres75@alu.universidad.edu
+224,Delfina,Pérez Moreno,1996-03-25,Ingeniería Electrónica,8.91,198,delfinaperezmoreno97@alumnos.miuni.net
+225,Victoria,Morales Vargas,1995-02-23,Arquitectura,9.84,190,victoriamoralesvargas98@estudiante.facu.ar
+226,Ignacio,García Moreno,2002-01-22,Contador Público,5.84,25,ignaciogarciamoreno79@estudiante.facu.ar
+227,Santiago,López Rivera,2003-06-15,Licenciatura en Comunicación Social,9.22,290,santiagolopezrivera8@alumnos.miuni.net
+228,Agustina,Pérez González,1996-10-05,Licenciatura en Artes Visuales,4.63,17,agustinaperezgonzalez74@alumnos.miuni.net
+229,Carolina,Díaz Gómez,1999-05-04,Ingeniería en Sistemas,8.23,96,carolinadiazgomez96@alu.universidad.edu
+230,Emilia,Molina Guerrero,1997-04-24,Diseño Gráfico,7.91,101,emiliamolinaguerrero31@alumnos.miuni.net
+231,Victoria,Paz Mendoza,1996-03-07,Arquitectura,8.73,240,victoriapazmendoza84@alumnos.miuni.net
+232,Antonia,Salazar García,1997-11-30,Abogacía,8.99,184,antoniasalazargarcia22@alumnos.miuni.net
+233,Julieta,Aguirre Rivera,2003-03-17,Medicina,4.03,52,julietaaguirrerivera49@alumnos.miuni.net
+234,Mariana,Guerrero Gutiérrez,2000-04-08,Diseño Gráfico,4.52,26,marianaguerrerogutierrez74@alumnos.miuni.net
+235,Andrés,Miranda Moreno,1998-12-26,Ingeniería Electrónica,9.82,229,andresmirandamoreno18@alumnos.miuni.net
+236,Luis,López Díaz,1998-11-11,Arquitectura,9.36,277,luislopezdiaz25@estudiante.facu.ar
+237,Andrés,Pérez Herrera,1996-01-22,Licenciatura en Comunicación Social,6.98,65,andresperezherrera22@alu.universidad.edu
+238,Miguel,Suárez Salazar,1995-01-17,Abogacía,7.3,68,miguelsuarezsalazar24@alu.universidad.edu
+239,Emilia,Martínez Rivera,1995-02-25,Contador Público,9.92,242,emiliamartinezrivera22@estudiante.facu.ar
+240,Juan,Cortés Ruiz,1996-04-23,Licenciatura en Ciencias de la Computación,4.55,19,juancortesruiz89@alu.universidad.edu
+241,Diego,Benítez Fernández,1999-08-02,Licenciatura en Biología,6.29,22,diegobenitezfernandez29@alumnos.miuni.net
+242,Victoria,Benítez Martínez,2002-06-18,Licenciatura en Biología,8.46,146,victoriabenitezmartinez66@alu.universidad.edu
+243,Gabriel,Cabrera Martínez,2005-09-17,Licenciatura en Ciencias de la Computación,4.29,49,gabrielcabreramartinez26@alu.universidad.edu
+244,Gabriel,Rodríguez Reyes,1999-06-16,Contador Público,4.46,1,gabrielrodriguezreyes60@alumnos.miuni.net
+245,Christian,Reyes Silva,2000-09-25,Contador Público,5.07,16,christianreyessilva39@alu.universidad.edu
+246,Agustina,Díaz Flores,1998-04-20,Diseño Gráfico,9.85,197,agustinadiazflores69@alu.universidad.edu
+247,Gonzalo,Paz Núñez,2003-07-22,Ingeniería en Sistemas,6.93,61,gonzalopaznunez91@estudiante.facu.ar
+248,Emilia,Silva Benítez,1997-09-08,Licenciatura en Administración,6.47,38,emiliasilvabenitez3@alu.universidad.edu
+249,Andrés,Salazar Sánchez,2003-05-13,Licenciatura en Comunicación Social,5.34,8,andressalazarsanchez80@estudiante.facu.ar
+250,Ricardo,Morales Rivera,2005-01-06,Licenciatura en Geología,5.23,47,ricardomoralesrivera97@alumnos.miuni.net
+251,Miguel,Soto Jiménez,2002-11-27,Medicina,5.02,37,miguelsotojimenez63@alu.universidad.edu
+252,Joaquín,Molina Reyes,1999-04-15,Diseño Gráfico,6.92,148,joaquinmolinareyes57@alu.universidad.edu
+253,Esteban,Miranda Romero,1998-02-14,Licenciatura en Geología,5.55,51,estebanmirandaromero70@estudiante.facu.ar
+254,Ignacio,Molina Luna,1999-08-18,Ingeniería en Sistemas,7.48,95,ignaciomolinaluna21@alumnos.miuni.net
+255,Alejandro,Salazar Benítez,1999-06-14,Licenciatura en Psicología,9.27,264,alejandrosalazarbenitez2@alu.universidad.edu
+256,Agustina,Reyes Sánchez,2005-12-14,Ingeniería Electrónica,6.18,40,agustinareyessanchez63@alu.universidad.edu
+257,Sofía,Díaz Fernández,1998-04-25,Licenciatura en Artes Visuales,8.38,73,sofiadiazfernandez33@estudiante.facu.ar
+258,Sofía,Reyes Martínez,2000-06-18,Ingeniería Electrónica,9.36,261,sofiareyesmartinez20@alu.universidad.edu
+259,Laura,Rodríguez Cabrera,1996-05-15,Licenciatura en Artes Visuales,8.91,272,laurarodriguezcabrera7@alu.universidad.edu
+260,Carolina,Mendoza Paz,2001-12-31,Abogacía,9.49,225,carolinamendozapaz39@estudiante.facu.ar
+261,Pedro,Benítez Mendoza,2003-03-04,Licenciatura en Geología,4.83,47,pedrobenitezmendoza17@estudiante.facu.ar
+262,Clara,Paz Núñez,1995-12-16,Licenciatura en Geología,9.42,204,clarapaznunez44@alumnos.miuni.net
+263,Emilia,Salazar Rojas,1997-01-08,Diseño Gráfico,6.43,14,emiliasalazarrojas34@estudiante.facu.ar
+264,Rafael,Delgado Luna,1995-06-22,Diseño Gráfico,9.17,189,rafaeldelgadoluna81@estudiante.facu.ar
+265,Javier,Silva Pérez,1998-02-08,Licenciatura en Psicología,6.47,26,javiersilvaperez19@estudiante.facu.ar
+266,Luis,Romero Acosta,2004-07-15,Ingeniería Civil,4.63,18,luisromeroacosta85@alu.universidad.edu
+267,Valeria,Sánchez Morales,2001-10-25,Licenciatura en Administración,4.72,57,valeriasanchezmorales39@alu.universidad.edu
+268,Fernando,Delgado Fernández,2005-12-08,Contador Público,6.81,125,fernandodelgadofernandez81@alu.universidad.edu
+269,Daniela,Miranda Soto,2005-08-06,Licenciatura en Artes Visuales,9.64,255,danielamirandasoto98@alu.universidad.edu
+270,Fernando,Paz Reyes,1998-08-18,Licenciatura en Artes Visuales,9.25,286,fernandopazreyes79@estudiante.facu.ar
+271,Santiago,Morales Paz,1997-08-10,Ingeniería Civil,5.11,13,santiagomoralespaz20@estudiante.facu.ar
+272,Victoria,Guerrero Rojas,2005-09-18,Licenciatura en Administración,7.35,131,victoriaguerrerorojas20@alu.universidad.edu
+273,Victoria,Herrera González,2005-03-23,Licenciatura en Geología,5.67,43,victoriaherreragonzalez2@estudiante.facu.ar
+274,Lucía,Benítez Rivas,2000-04-06,Profesorado de Educación Física,8.63,200,luciabenitezrivas35@estudiante.facu.ar
+275,Martina,Ramírez Martínez,1995-04-03,Licenciatura en Geología,7.74,152,martinaramirezmartinez65@alumnos.miuni.net
+276,Santiago,Romero Ruiz,1995-01-28,Arquitectura,6.46,52,santiagoromeroruiz78@alumnos.miuni.net
+277,Isabella,Jiménez Vidal,2004-01-23,Licenciatura en Psicología,5.37,22,isabellajimenezvidal25@estudiante.facu.ar
+278,Emilia,Mendoza Ramírez,2005-10-29,Profesorado de Educación Física,6.31,50,emiliamendozaramirez2@estudiante.facu.ar
+279,Javier,Cortés Vega,2003-04-24,Licenciatura en Artes Visuales,7.33,107,javiercortesvega13@estudiante.facu.ar
+280,Sergio,Rojas Reyes,2005-06-01,Licenciatura en Administración,6.5,47,sergiorojasreyes5@estudiante.facu.ar
+281,Agustina,Castro Ramírez,2004-12-22,Ingeniería Civil,7.53,86,agustinacastroramirez86@estudiante.facu.ar
+282,Ana,Pérez Martínez,1998-07-07,Licenciatura en Administración,8.73,230,anaperezmartinez69@alumnos.miuni.net
+283,Miguel,García Martínez,2002-09-04,Licenciatura en Artes Visuales,7.35,155,miguelgarciamartinez32@estudiante.facu.ar
+284,Pedro,Benítez Campos,2001-05-08,Profesorado de Educación Física,6.42,50,pedrobenitezcampos55@alumnos.miuni.net
+285,Pedro,Díaz Guerrero,2005-09-16,Licenciatura en Psicología,9.97,230,pedrodiazguerrero88@alu.universidad.edu
+286,Lucía,Morales Pérez,1999-04-12,Ingeniería en Sistemas,9.96,196,luciamoralesperez7@alumnos.miuni.net
+287,Sergio,Cabrera García,1999-02-12,Profesorado de Educación Física,4.37,11,sergiocabreragarcia72@alumnos.miuni.net
+288,Camila,Jiménez Ortiz,2004-12-23,Licenciatura en Administración,6.89,162,camilajimenezortiz7@alumnos.miuni.net
+289,Brenda,Mendoza Guerrero,1998-12-24,Licenciatura en Psicología,5.48,31,brendamendozaguerrero86@alu.universidad.edu
+290,Victoria,Fernández Salazar,1998-08-01,Licenciatura en Administración,8.32,104,victoriafernandezsalazar80@alumnos.miuni.net
+291,Gabriel,Ortiz Reyes,2005-06-22,Licenciatura en Administración,5.69,59,gabrielortizreyes52@alumnos.miuni.net
+292,Romina,Gutiérrez Aguirre,2004-02-28,Licenciatura en Biología,6.04,59,rominagutierrezaguirre26@alumnos.miuni.net
+293,Christian,Moreno Navarro,1997-07-30,Medicina,7.61,65,christianmorenonavarro12@alumnos.miuni.net
+294,Isabella,Pérez Luna,1998-02-08,Ingeniería Electrónica,9.49,227,isabellaperezluna40@estudiante.facu.ar
+295,Andrés,Guerrero Soto,1995-09-13,Licenciatura en Psicología,9.68,213,andresguerrerosoto64@alu.universidad.edu
+296,Abril,Silva Ortiz,2004-08-29,Medicina,6.41,37,abrilsilvaortiz75@alumnos.miuni.net
+297,Daniela,Miranda Reyes,2002-12-19,Ingeniería en Sistemas,4.96,52,danielamirandareyes36@alumnos.miuni.net
+298,Miguel,Vargas Paz,1999-03-02,Licenciatura en Psicología,7.37,89,miguelvargaspaz95@alu.universidad.edu
+299,Diego,Soto Soto,2004-01-21,Licenciatura en Ciencias de la Computación,5.79,2,diegosotosoto57@alu.universidad.edu
+300,Isabella,Acosta Morales,1998-12-25,Diseño Gráfico,9.77,247,isabellaacostamorales27@estudiante.facu.ar
+301,Romina,Benítez Castro,1995-04-10,Licenciatura en Biología,8.83,263,rominabenitezcastro17@alumnos.miuni.net
+302,Camila,González Suárez,1996-07-17,Ingeniería en Sistemas,5.86,20,camilagonzalezsuarez57@alu.universidad.edu
+303,Facundo,Romero Pérez,2001-09-06,Licenciatura en Comunicación Social,7.88,95,facundoromeroperez49@alumnos.miuni.net
+304,Gabriel,Vargas Castro,2002-03-30,Medicina,8.96,285,gabrielvargascastro94@alu.universidad.edu
+305,Joaquín,Vega Mendoza,2001-01-09,Diseño Gráfico,4.6,20,joaquinvegamendoza45@alu.universidad.edu
+306,Laura,Castro Pérez,1996-05-04,Diseño Gráfico,4.63,8,lauracastroperez14@alumnos.miuni.net
+307,Daniela,Rojas Romero,2001-06-22,Licenciatura en Artes Visuales,6.47,49,danielarojasromero75@alumnos.miuni.net
+308,Joaquín,Díaz Torres,1997-07-13,Licenciatura en Ciencias de la Computación,9.75,270,joaquindiaztorres51@estudiante.facu.ar
+309,Manuel,Vega Salazar,2003-05-01,Licenciatura en Ciencias de la Computación,4.19,25,manuelvegasalazar70@alu.universidad.edu
+310,Valeria,Guerrero López,2004-06-25,Licenciatura en Artes Visuales,8.01,169,valeriaguerrerolopez68@alumnos.miuni.net
+311,Pedro,Guerrero Pérez,1996-03-09,Diseño Gráfico,5.53,39,pedroguerreroperez72@alumnos.miuni.net
+312,Florencia,Navarro Delgado,1998-04-02,Medicina,9.7,186,florencianavarrodelgado37@alu.universidad.edu
+313,Luis,Gómez Navarro,1995-01-17,Licenciatura en Psicología,4.29,0,luisgomeznavarro55@estudiante.facu.ar
+314,Diego,Fernández Vargas,2003-06-16,Licenciatura en Geología,6.55,150,diegofernandezvargas70@alu.universidad.edu
+315,Pedro,Soto Vega,2003-03-31,Licenciatura en Psicología,6.11,41,pedrosotovega86@estudiante.facu.ar
+316,Abril,Acosta Delgado,1996-06-29,Abogacía,6.13,49,abrilacostadelgado60@estudiante.facu.ar
+317,Facundo,Castro Alonso,1996-08-30,Ingeniería Civil,9.76,182,facundocastroalonso87@alumnos.miuni.net
+318,Victoria,Salazar Vidal,2002-11-19,Diseño Gráfico,9.02,199,victoriasalazarvidal11@alumnos.miuni.net
+319,Andrés,Gutiérrez Cortés,2003-04-11,Medicina,9.59,297,andresgutierrezcortes8@estudiante.facu.ar
+320,Laura,Flores Ruiz,1998-01-22,Medicina,6.75,83,laurafloresruiz34@estudiante.facu.ar
+321,Romina,Paz García,2005-05-05,Licenciatura en Comunicación Social,7.71,162,rominapazgarcia19@alumnos.miuni.net
+322,Miguel,Acosta Acosta,2002-06-12,Licenciatura en Ciencias de la Computación,6.23,4,miguelacostaacosta84@estudiante.facu.ar
+323,Julieta,Acosta Navarro,2002-04-30,Contador Público,8.89,253,julietaacostanavarro15@alumnos.miuni.net
+324,Clara,Sánchez Ortiz,2000-05-31,Contador Público,5.24,38,clarasanchezortiz25@estudiante.facu.ar
+325,María,López Castillo,2002-06-24,Licenciatura en Artes Visuales,5.75,38,marialopezcastillo39@alu.universidad.edu
+326,Abril,Ruiz Romero,2000-02-19,Licenciatura en Psicología,9.13,296,abrilruizromero48@estudiante.facu.ar
+327,Ricardo,Ortiz Suárez,2002-03-05,Licenciatura en Psicología,7.63,151,ricardoortizsuarez22@alumnos.miuni.net
+328,Andrés,Salazar Núñez,2002-04-20,Abogacía,4.55,59,andressalazarnunez56@estudiante.facu.ar
+329,Isabella,Rodríguez Moreno,2002-06-24,Licenciatura en Administración,7.09,179,isabellarodriguezmoreno71@estudiante.facu.ar
+330,Florencia,Luna Suárez,1999-01-01,Licenciatura en Psicología,5.53,4,florencialunasuarez10@estudiante.facu.ar
+331,Ana,Pérez Jiménez,1998-08-03,Licenciatura en Comunicación Social,7.07,157,anaperezjimenez40@estudiante.facu.ar
+332,Ignacio,Rodríguez Rojas,2004-07-04,Diseño Gráfico,6.87,84,ignaciorodriguezrojas57@estudiante.facu.ar
+333,Laura,Navarro Castro,2000-05-15,Diseño Gráfico,7.98,111,lauranavarrocastro72@alu.universidad.edu
+334,José,Sánchez Campos,2003-03-06,Licenciatura en Psicología,9.35,185,josesanchezcampos87@alu.universidad.edu
+335,Camila,Cortés Rojas,2001-10-31,Licenciatura en Administración,9.91,279,camilacortesrojas27@estudiante.facu.ar
+336,Andrés,Delgado Ramírez,2002-04-06,Arquitectura,8.13,133,andresdelgadoramirez74@alu.universidad.edu
+337,Julieta,López Alonso,1996-07-21,Medicina,9.38,287,julietalopezalonso16@estudiante.facu.ar
+338,Pablo,Moreno Rivas,1997-05-05,Licenciatura en Ciencias de la Computación,4.22,4,pablomorenorivas8@alumnos.miuni.net
+339,Carlos,Aguirre Gutiérrez,2004-12-08,Licenciatura en Psicología,4.9,36,carlosaguirregutierrez17@alumnos.miuni.net
+340,Mariana,Navarro Cortés,2003-04-21,Ingeniería en Sistemas,8.56,222,mariananavarrocortes96@estudiante.facu.ar
+341,Lucía,Salazar Luna,2002-03-04,Licenciatura en Artes Visuales,9.23,223,luciasalazarluna46@alumnos.miuni.net
+342,Brenda,Pérez Soto,2002-10-18,Licenciatura en Geología,4.48,19,brendaperezsoto45@alu.universidad.edu
+343,Carolina,Ruiz Delgado,1996-03-11,Ingeniería Electrónica,6.3,58,carolinaruizdelgado67@alumnos.miuni.net
+344,Gabriel,Vidal Martínez,1995-10-07,Contador Público,4.4,33,gabrielvidalmartinez54@estudiante.facu.ar
+345,Sergio,Flores Cortés,1999-05-26,Abogacía,7.57,71,sergioflorescortes64@estudiante.facu.ar
+346,Fernando,Rodríguez Vargas,1999-07-16,Licenciatura en Comunicación Social,5.3,23,fernandorodriguezvargas2@alumnos.miuni.net
+347,Miguel,Gutiérrez Rojas,2004-11-07,Ingeniería Civil,5.98,45,miguelgutierrezrojas32@alu.universidad.edu
+348,Sofía,Morales Herrera,2000-03-19,Contador Público,5.87,31,sofiamoralesherrera45@alumnos.miuni.net
+349,Lucía,López Núñez,2000-03-27,Arquitectura,9.52,270,lucialopeznunez75@alu.universidad.edu
+350,Agustina,Silva Fernández,1995-07-11,Ingeniería Civil,5.5,15,agustinasilvafernandez13@alu.universidad.edu
+351,Santiago,Rivera Moreno,1996-12-12,Profesorado de Educación Física,5.58,27,santiagoriveramoreno92@alumnos.miuni.net
+352,Ignacio,Díaz Vega,2001-12-23,Licenciatura en Psicología,4.91,29,ignaciodiazvega88@estudiante.facu.ar
+353,Florencia,Campos Rivera,2005-01-07,Arquitectura,4.63,40,florenciacamposrivera68@estudiante.facu.ar
+354,Facundo,González Rivas,2000-06-12,Ingeniería en Sistemas,5.47,50,facundogonzalezrivas94@alumnos.miuni.net
+355,Juan,Ruiz Soto,1998-08-15,Licenciatura en Administración,6.78,175,juanruizsoto31@alu.universidad.edu
+356,Abril,Díaz Salazar,2001-12-22,Profesorado de Educación Física,7.74,141,abrildiazsalazar82@alu.universidad.edu
+357,Esteban,Núñez Vega,1997-01-25,Ingeniería Civil,5.84,56,estebannunezvega31@alu.universidad.edu
+358,Delfina,Luna Herrera,2000-03-16,Licenciatura en Biología,5.58,30,delfinalunaherrera87@alu.universidad.edu
+359,María,Aguirre Campos,2000-12-28,Licenciatura en Administración,5.79,38,mariaaguirrecampos66@estudiante.facu.ar
+360,Emilia,Navarro Aguirre,2005-04-13,Diseño Gráfico,7.1,124,emilianavarroaguirre26@alumnos.miuni.net
+361,Carlos,Ortiz Ruiz,2001-10-18,Licenciatura en Comunicación Social,4.94,59,carlosortizruiz48@alumnos.miuni.net
+362,Manuel,Luna Cabrera,1999-12-27,Medicina,7.12,108,manuellunacabrera33@estudiante.facu.ar
+363,Sergio,Mendoza García,1998-10-28,Licenciatura en Psicología,4.09,23,sergiomendozagarcia30@alu.universidad.edu
+364,Sergio,Castillo Benítez,2003-01-12,Ingeniería en Sistemas,4.25,20,sergiocastillobenitez32@alu.universidad.edu
+365,Camila,Mendoza Vargas,1996-09-22,Ingeniería en Sistemas,9.77,192,camilamendozavargas3@alu.universidad.edu
+366,Ana,Benítez Romero,2003-10-28,Licenciatura en Ciencias de la Computación,5.37,60,anabenitezromero90@alu.universidad.edu
+367,Juan,Guerrero Luna,1998-07-25,Medicina,8.17,140,juanguerreroluna28@alu.universidad.edu
+368,José,Sánchez Herrera,1997-05-28,Licenciatura en Artes Visuales,7.24,127,josesanchezherrera62@alu.universidad.edu
+369,Agustina,Núñez Jiménez,1996-06-25,Licenciatura en Geología,5.86,29,agustinanunezjimenez23@alumnos.miuni.net
+370,Florencia,Guerrero García,1996-09-14,Licenciatura en Geología,4.27,34,florenciaguerrerogarcia31@estudiante.facu.ar
+371,Valentina,Flores Rivera,1996-04-10,Licenciatura en Psicología,4.14,33,valentinafloresrivera35@alu.universidad.edu
+372,Esteban,Pérez Vargas,2005-08-02,Licenciatura en Comunicación Social,4.52,19,estebanperezvargas15@estudiante.facu.ar
+373,José,Ramírez Romero,1995-01-10,Medicina,7.08,146,joseramirezromero45@alumnos.miuni.net
+374,Manuel,Reyes Morales,2004-11-28,Contador Público,4.89,28,manuelreyesmorales64@estudiante.facu.ar
+375,Sergio,Molina Castro,2005-07-29,Ingeniería Electrónica,7.43,64,sergiomolinacastro21@alu.universidad.edu
+376,Sergio,Rivas Castro,2005-12-17,Ingeniería Civil,9.06,223,sergiorivascastro42@alumnos.miuni.net
+377,Javier,Molina Rivas,2001-01-24,Medicina,4.63,28,javiermolinarivas20@estudiante.facu.ar
+378,Christian,Cortés Vega,2005-09-25,Abogacía,7.59,69,christiancortesvega58@estudiante.facu.ar
+379,Ana,Fernández Reyes,2000-07-12,Contador Público,5.16,3,anafernandezreyes93@alumnos.miuni.net
+380,Gonzalo,Pérez Fernández,1995-05-12,Medicina,9.0,281,gonzaloperezfernandez8@estudiante.facu.ar
+381,Antonia,Rivas Vidal,2002-08-11,Diseño Gráfico,8.63,292,antoniarivasvidal91@alumnos.miuni.net
+382,Laura,Silva Jiménez,2001-12-27,Ingeniería Electrónica,5.22,26,laurasilvajimenez10@estudiante.facu.ar
+383,Pedro,Soto Suárez,1997-04-28,Medicina,9.16,225,pedrosotosuarez3@alu.universidad.edu
+384,Esteban,Reyes Delgado,1997-08-24,Contador Público,4.14,1,estebanreyesdelgado19@alu.universidad.edu
+385,Florencia,Benítez Benítez,1995-11-06,Arquitectura,4.04,35,florenciabenitezbenitez68@estudiante.facu.ar
+386,Christian,Rodríguez Martínez,2005-11-29,Medicina,5.13,16,christianrodriguezmartinez87@alumnos.miuni.net
+387,José,Flores Campos,2004-11-20,Licenciatura en Biología,5.89,51,joseflorescampos51@alu.universidad.edu
+388,Santiago,Díaz Rivas,1995-05-06,Ingeniería Civil,9.99,277,santiagodiazrivas73@alu.universidad.edu
+389,Andrés,López Acosta,2001-10-03,Profesorado de Educación Física,9.37,291,andreslopezacosta23@alumnos.miuni.net
+390,Gabriel,Vega Rojas,1997-03-30,Contador Público,5.99,13,gabrielvegarojas61@alumnos.miuni.net
+391,Valentina,Miranda Fernández,2001-02-18,Contador Público,7.9,116,valentinamirandafernandez86@alumnos.miuni.net
+392,Esteban,Soto Suárez,2001-01-26,Licenciatura en Comunicación Social,9.23,227,estebansotosuarez68@alumnos.miuni.net
+393,Joaquín,Campos Miranda,1999-08-17,Profesorado de Educación Física,6.81,93,joaquincamposmiranda11@alumnos.miuni.net
+394,Valentina,Cabrera Castillo,1999-06-25,Abogacía,6.71,72,valentinacabreracastillo35@alumnos.miuni.net
+395,Clara,Molina Vidal,1999-04-07,Licenciatura en Geología,7.41,78,claramolinavidal91@alu.universidad.edu
+396,José,Fernández Cortés,1999-02-18,Medicina,9.67,212,josefernandezcortes29@alumnos.miuni.net
+397,Santiago,Campos Cortés,2003-01-24,Licenciatura en Psicología,7.29,167,santiagocamposcortes85@alu.universidad.edu
+398,Joaquín,Torres López,2000-09-12,Medicina,5.73,23,joaquintorreslopez97@alumnos.miuni.net
+399,Christian,Díaz González,2003-08-22,Licenciatura en Psicología,9.31,235,christiandiazgonzalez61@alu.universidad.edu
+400,Diego,Morales Rodríguez,2005-01-04,Arquitectura,6.35,6,diegomoralesrodriguez32@alumnos.miuni.net
+401,Andrés,Jiménez Cortés,1999-11-11,Arquitectura,5.78,53,andresjimenezcortes5@alu.universidad.edu
+402,Julieta,González Guerrero,1996-03-08,Licenciatura en Comunicación Social,4.48,40,julietagonzalezguerrero23@alu.universidad.edu
+403,Andrés,Herrera Jiménez,1998-10-27,Ingeniería en Sistemas,7.75,162,andresherrerajimenez11@alu.universidad.edu
+404,Martina,Castro Sánchez,2005-04-19,Licenciatura en Administración,9.65,274,martinacastrosanchez28@estudiante.facu.ar
+405,Alejandro,Torres Benítez,1996-03-21,Profesorado de Educación Física,4.43,53,alejandrotorresbenitez70@alu.universidad.edu
+406,Abril,Fernández Flores,2000-07-15,Licenciatura en Ciencias de la Computación,6.85,114,abrilfernandezflores81@alumnos.miuni.net
+407,Martina,Ruiz Rivas,2005-01-16,Ingeniería Electrónica,7.54,142,martinaruizrivas12@alumnos.miuni.net
+408,Joaquín,Núñez Mendoza,1995-06-23,Licenciatura en Ciencias de la Computación,4.93,49,joaquinnunezmendoza77@estudiante.facu.ar
+409,Camila,Acosta Rivera,1999-01-06,Abogacía,5.34,27,camilaacostarivera27@alumnos.miuni.net
+410,Luis,Torres Ramírez,1997-11-05,Ingeniería Civil,7.3,136,luistorresramirez25@estudiante.facu.ar
+411,Agustina,Núñez Morales,2003-09-30,Licenciatura en Ciencias de la Computación,9.46,187,agustinanunezmorales76@estudiante.facu.ar
+412,Javier,Romero Díaz,2000-07-27,Contador Público,5.63,29,javierromerodiaz6@alumnos.miuni.net
+413,Martina,Herrera Paz,2002-05-14,Diseño Gráfico,5.82,34,martinaherrerapaz35@alu.universidad.edu
+414,Florencia,Cortés Pérez,2004-05-27,Licenciatura en Ciencias de la Computación,9.8,258,florenciacortesperez69@estudiante.facu.ar
+415,Agustina,Delgado Soto,2004-01-24,Arquitectura,7.95,159,agustinadelgadosoto26@alumnos.miuni.net
+416,Daniela,Acosta Vidal,1998-06-14,Ingeniería Civil,5.36,60,danielaacostavidal29@alumnos.miuni.net
+417,Ana,Vidal Romero,1999-04-29,Contador Público,7.1,137,anavidalromero67@alumnos.miuni.net
+418,Clara,Cortés Díaz,2001-04-01,Licenciatura en Ciencias de la Computación,9.88,268,claracortesdiaz79@alu.universidad.edu
+419,Esteban,Pérez Martínez,1998-07-08,Ingeniería Civil,4.37,37,estebanperezmartinez89@estudiante.facu.ar
+420,Ignacio,Cortés Núñez,1996-03-05,Ingeniería Civil,5.94,19,ignaciocortesnunez27@alumnos.miuni.net
+421,Fernando,Mendoza Díaz,2003-03-21,Ingeniería Civil,7.8,151,fernandomendozadiaz44@estudiante.facu.ar
+422,Lucía,Silva Moreno,2005-03-12,Arquitectura,8.97,287,luciasilvamoreno11@estudiante.facu.ar
+423,Alejandro,Herrera Martínez,2002-03-10,Licenciatura en Psicología,6.75,163,alejandroherreramartinez32@alumnos.miuni.net
+424,Laura,Delgado Reyes,2003-03-10,Licenciatura en Biología,9.51,263,lauradelgadoreyes7@alu.universidad.edu
+425,Alejandro,Salazar Castillo,2000-08-11,Licenciatura en Biología,6.18,40,alejandrosalazarcastillo25@alumnos.miuni.net
+426,Fernando,López Jiménez,2001-11-01,Medicina,6.15,45,fernandolopezjimenez33@alumnos.miuni.net
+427,Sergio,Reyes Silva,2005-06-02,Licenciatura en Artes Visuales,4.61,18,sergioreyessilva71@alumnos.miuni.net
+428,Romina,Reyes González,2003-10-02,Contador Público,8.94,295,rominareyesgonzalez26@alu.universidad.edu
+429,Alejandro,Benítez Rivas,2004-09-07,Profesorado de Educación Física,6.1,40,alejandrobenitezrivas96@alu.universidad.edu
+430,Manuel,Flores Acosta,1999-09-13,Diseño Gráfico,5.92,11,manuelfloresacosta11@alumnos.miuni.net
+431,Joaquín,Ramírez Martínez,1996-12-09,Licenciatura en Psicología,4.52,4,joaquinramirezmartinez23@estudiante.facu.ar
+432,José,Cabrera Romero,1998-06-05,Profesorado de Educación Física,6.73,89,josecabreraromero68@alumnos.miuni.net
+433,Gonzalo,Castro Paz,2002-06-25,Ingeniería Electrónica,9.2,250,gonzalocastropaz54@estudiante.facu.ar
+434,Sofía,Suárez Alonso,1999-06-08,Medicina,5.74,14,sofiasuarezalonso30@estudiante.facu.ar
+435,Miguel,Pérez Aguirre,2003-01-20,Ingeniería Electrónica,6.67,134,miguelperezaguirre25@estudiante.facu.ar
+436,Martina,Martínez Ramírez,2004-08-09,Ingeniería en Sistemas,7.91,73,martinamartinezramirez89@alu.universidad.edu
+437,Luis,Vargas Flores,1997-09-18,Diseño Gráfico,5.44,44,luisvargasflores41@alumnos.miuni.net
+438,Joaquín,Pérez Romero,1996-11-16,Profesorado de Educación Física,4.32,22,joaquinperezromero18@alumnos.miuni.net
+439,Esteban,Herrera Gutiérrez,1998-02-18,Medicina,9.07,234,estebanherreragutierrez90@alu.universidad.edu
+440,Daniela,Gómez Vega,1998-09-07,Licenciatura en Psicología,7.63,154,danielagomezvega45@estudiante.facu.ar
+441,Antonia,García Herrera,2003-08-06,Contador Público,4.49,45,antoniagarciaherrera28@alumnos.miuni.net
+442,Manuel,Castro Ortiz,2001-10-20,Licenciatura en Geología,7.16,89,manuelcastroortiz53@alu.universidad.edu
+443,Joaquín,Soto Vargas,1996-12-27,Abogacía,6.41,35,joaquinsotovargas67@alumnos.miuni.net
+444,Andrés,Díaz Paz,2005-10-25,Licenciatura en Artes Visuales,5.33,8,andresdiazpaz76@alumnos.miuni.net
+445,Alejandro,Miranda Aguirre,1998-06-18,Ingeniería Electrónica,9.3,287,alejandromirandaaguirre26@alu.universidad.edu
+446,María,Núñez Ruiz,2002-03-21,Abogacía,7.69,118,marianunezruiz62@alu.universidad.edu
+447,Agustina,Mendoza Romero,1995-04-03,Medicina,7.51,114,agustinamendozaromero74@estudiante.facu.ar
+448,Carlos,Gómez Suárez,2002-04-14,Licenciatura en Biología,6.31,13,carlosgomezsuarez81@alu.universidad.edu
+449,Esteban,Cortés Torres,1998-12-24,Arquitectura,4.83,16,estebancortestorres71@alu.universidad.edu
+450,Camila,Campos Fernández,2001-08-24,Contador Público,8.53,183,camilacamposfernandez50@alumnos.miuni.net
+451,Fernando,Miranda Cortés,2001-02-06,Licenciatura en Geología,8.28,72,fernandomirandacortes95@alumnos.miuni.net
+452,Emilia,Torres Romero,2005-12-21,Diseño Gráfico,5.69,45,emiliatorresromero60@estudiante.facu.ar
+453,Agustina,Molina Flores,1996-11-09,Ingeniería Civil,8.62,284,agustinamolinaflores41@estudiante.facu.ar
+454,Mariana,Navarro Torres,2001-02-24,Contador Público,6.15,6,mariananavarrotorres95@alumnos.miuni.net
+455,Andrés,Guerrero Castro,1998-08-11,Contador Público,6.91,179,andresguerrerocastro31@alumnos.miuni.net
+456,Laura,Soto Pérez,1997-11-01,Ingeniería en Sistemas,4.08,33,laurasotoperez81@alumnos.miuni.net
+457,Martina,Romero Soto,1997-10-26,Ingeniería Civil,4.44,5,martinaromerosoto78@alu.universidad.edu
+458,Joaquín,Silva Flores,1995-03-24,Ingeniería en Sistemas,9.61,277,joaquinsilvaflores12@alu.universidad.edu
+459,Sofía,Ramírez García,2003-08-18,Ingeniería en Sistemas,6.1,36,sofiaramirezgarcia13@alumnos.miuni.net
+460,Clara,Mendoza Alonso,2005-11-28,Licenciatura en Ciencias de la Computación,6.88,80,claramendozaalonso15@estudiante.facu.ar
+461,Agustina,Ramírez Rodríguez,2005-03-22,Licenciatura en Psicología,9.47,293,agustinaramirezrodriguez93@alumnos.miuni.net
+462,Martina,Pérez Rojas,1998-01-29,Diseño Gráfico,5.06,2,martinaperezrojas2@estudiante.facu.ar
+463,Marcos,García Vargas,2002-09-30,Diseño Gráfico,6.02,33,marcosgarciavargas81@estudiante.facu.ar
+464,Christian,Flores Navarro,2005-12-11,Ingeniería Civil,9.61,196,christianfloresnavarro2@alumnos.miuni.net
+465,Camila,Vega González,1999-06-02,Ingeniería en Sistemas,6.64,119,camilavegagonzalez53@alumnos.miuni.net
+466,Juan,Pérez Rodríguez,1999-03-14,Licenciatura en Biología,4.89,27,juanperezrodriguez58@alumnos.miuni.net
+467,Brenda,Rodríguez Moreno,2004-10-17,Licenciatura en Comunicación Social,7.33,170,brendarodriguezmoreno13@alumnos.miuni.net
+468,Diego,Gutiérrez Romero,1999-02-14,Ingeniería Civil,8.12,160,diegogutierrezromero18@alumnos.miuni.net
+469,Luis,Navarro Rivas,1997-01-28,Licenciatura en Geología,7.1,92,luisnavarrorivas44@alu.universidad.edu
+470,Joaquín,Martínez Herrera,2000-08-24,Profesorado de Educación Física,9.85,222,joaquinmartinezherrera98@alu.universidad.edu
+471,Christian,Cabrera Vargas,1999-12-19,Ingeniería Electrónica,4.09,23,christiancabreravargas48@alu.universidad.edu
+472,Valeria,González Ortiz,1999-04-11,Licenciatura en Administración,6.2,25,valeriagonzalezortiz56@alu.universidad.edu
+473,Abril,Delgado Navarro,1996-07-03,Licenciatura en Ciencias de la Computación,5.78,50,abrildelgadonavarro86@estudiante.facu.ar
+474,Natalia,Castillo Ramírez,1997-05-30,Profesorado de Educación Física,5.31,49,nataliacastilloramirez76@alumnos.miuni.net
+475,Joaquín,Cabrera Fernández,2003-11-08,Diseño Gráfico,9.42,282,joaquincabrerafernandez84@alu.universidad.edu
+476,Clara,Romero García,2005-07-02,Licenciatura en Artes Visuales,5.45,5,clararomerogarcia53@estudiante.facu.ar
+477,Isabella,Rojas Herrera,1996-01-28,Arquitectura,7.75,86,isabellarojasherrera33@estudiante.facu.ar
+478,Sergio,Fernández Mendoza,1997-10-16,Abogacía,6.69,89,sergiofernandezmendoza76@alumnos.miuni.net
+479,Agustina,Paz Flores,1995-12-17,Medicina,9.3,256,agustinapazflores86@estudiante.facu.ar
+480,Delfina,Suárez Castillo,1997-08-02,Licenciatura en Comunicación Social,4.1,51,delfinasuarezcastillo21@alumnos.miuni.net
+481,Andrés,Jiménez Flores,2001-06-03,Ingeniería Civil,7.88,73,andresjimenezflores57@alu.universidad.edu
+482,Emilia,Núñez Luna,2004-05-08,Profesorado de Educación Física,6.81,121,emilianunezluna8@estudiante.facu.ar
+483,Victoria,Suárez Suárez,1999-02-04,Ingeniería en Sistemas,9.84,220,victoriasuarezsuarez12@alumnos.miuni.net
+484,Joaquín,Rivera Delgado,1996-02-06,Ingeniería Civil,6.15,10,joaquinriveradelgado47@alu.universidad.edu
+485,Antonia,Soto Delgado,2000-07-07,Profesorado de Educación Física,4.38,34,antoniasotodelgado77@alumnos.miuni.net
+486,Florencia,Delgado Rivas,2005-12-12,Ingeniería Civil,4.44,31,florenciadelgadorivas71@estudiante.facu.ar
+487,Natalia,Vidal Flores,1997-01-22,Arquitectura,7.53,91,nataliavidalflores3@alu.universidad.edu
+488,Emilia,Vidal Campos,2002-02-04,Arquitectura,5.1,10,emiliavidalcampos72@alumnos.miuni.net
+489,Santiago,Salazar García,1998-03-23,Diseño Gráfico,8.37,180,santiagosalazargarcia73@alu.universidad.edu
+490,Joaquín,Miranda Mendoza,2005-11-05,Licenciatura en Ciencias de la Computación,4.82,57,joaquinmirandamendoza71@estudiante.facu.ar
+491,Juan,Delgado Cortés,2001-04-13,Diseño Gráfico,9.15,207,juandelgadocortes7@alu.universidad.edu
+492,Miguel,Martínez Vega,1996-10-03,Contador Público,7.54,111,miguelmartinezvega40@alu.universidad.edu
+493,Natalia,Delgado Vargas,1999-05-19,Licenciatura en Geología,8.23,60,nataliadelgadovargas37@estudiante.facu.ar
+494,Carolina,Navarro Guerrero,1999-01-11,Licenciatura en Ciencias de la Computación,8.53,218,carolinanavarroguerrero8@alumnos.miuni.net
+495,Marcos,Pérez Cortés,1999-04-15,Licenciatura en Artes Visuales,5.23,35,marcosperezcortes96@alumnos.miuni.net
+496,Carolina,Rodríguez Torres,1999-07-30,Licenciatura en Psicología,9.96,271,carolinarodrigueztorres70@estudiante.facu.ar
+497,Daniela,Vargas Vidal,2000-04-16,Ingeniería Civil,5.89,44,danielavargasvidal98@estudiante.facu.ar
+498,Brenda,Núñez Reyes,1996-02-05,Profesorado de Educación Física,4.73,46,brendanunezreyes85@estudiante.facu.ar
+499,Martina,Rojas Romero,1997-08-18,Contador Público,6.9,140,martinarojasromero88@alumnos.miuni.net
+500,Delfina,Salazar Benítez,2003-12-30,Ingeniería Electrónica,9.02,258,delfinasalazarbenitez98@estudiante.facu.ar
