@@ -1,50 +1,79 @@
-from ordenar_estudiantes import ordenar_estudiantes
+import math
+import unicodedata  # Se utiliza para normalizar textos con caracteres especiales
+
+
+def normalizar(texto):
+    texto = texto.lower()
+    texto = unicodedata.normalize("NFD", texto)
+    texto = "".join(c for c in texto if unicodedata.category(c) != "Mn")
+    return texto
 
 
 def busqueda_binaria_estudiante(lista, criterio, valor_busqueda):
     """
-    Realiza una búsqueda binaria sobre la lista de estudiantes ordenada por el criterio dado.
-    Retorna el estudiante si lo encuentra, o None si no existe.
+    Realiza una búsqueda binaria de estudiantes según el criterio y valor dado.
+    Devuelve una lista de coincidencias o None si no hay resultados.
     """
+    resultados = []
+
+    if criterio == "apellido":
+        valor_busqueda = normalizar(str(valor_busqueda))
+    elif criterio == "promedio":
+        valor_busqueda = float(valor_busqueda)
+    elif criterio == "legajo":
+        valor_busqueda = int(valor_busqueda)
+
     izquierda = 0
     derecha = len(lista) - 1
+    medio = None
 
     while izquierda <= derecha:
         medio = (izquierda + derecha) // 2
         estudiante = lista[medio]
         valor_actual = estudiante[criterio]
 
-        # Para promedio, convertir a float para comparar correctamente
         if criterio == "promedio":
             valor_actual = float(valor_actual)
-            valor_busqueda = float(valor_busqueda)
+            if math.isclose(valor_actual, valor_busqueda, abs_tol=1e-2):
+                break
+            elif valor_actual < valor_busqueda:
+                izquierda = medio + 1
+            else:
+                derecha = medio - 1
+        elif criterio == "legajo":
+            valor_actual = int(valor_actual)
+            if valor_actual == valor_busqueda:
+                resultados.append(estudiante)
+                return resultados
+            elif valor_actual < valor_busqueda:
+                izquierda = medio + 1
+            else:
+                derecha = medio - 1
+        elif criterio == "apellido":
+            valor_actual_norm = normalizar(str(valor_actual))
+            if valor_actual_norm == valor_busqueda:
+                resultados.append(estudiante)
+                return resultados
+            elif valor_actual_norm < valor_busqueda:
+                izquierda = medio + 1
+            else:
+                derecha = medio - 1
 
-        if valor_actual == valor_busqueda:
-            return estudiante
-        elif valor_actual < valor_busqueda:
-            izquierda = medio + 1
-        else:
-            derecha = medio - 1
+    # Si el criterio es promedio y encontramos coincidencia, buscamos todos los que coincidan
+    if criterio == "promedio" and medio is not None:
+        # Buscar hacia la izquierda
+        i = medio
+        while i >= 0 and math.isclose(
+            float(lista[i][criterio]), valor_busqueda, abs_tol=1e-2
+        ):
+            resultados.append(lista[i])
+            i -= 1
+        # Buscar hacia la derecha
+        i = medio + 1
+        while i < len(lista) and math.isclose(
+            float(lista[i][criterio]), valor_busqueda, abs_tol=1e-2
+        ):
+            resultados.append(lista[i])
+            i += 1
 
-    return None
-
-
-################################################################
-# Ejemplo de uso:
-if __name__ == "__main__":
-    from lista_estudiantes import generar_estudiante_ficticio
-
-    estudiantes = [generar_estudiante_ficticio(i) for i in range(1, 21)]
-    criterio = "apellido"  # Puede ser "apellido", "promedio" o "carrera"
-    estudiantes_ordenados = ordenar_estudiantes(estudiantes, criterio)
-    valor_a_buscar = estudiantes_ordenados[5][
-        criterio
-    ]  # Por ejemplo, buscar el 6to apellido
-
-    resultado = busqueda_binaria_estudiante(
-        estudiantes_ordenados, criterio, valor_a_buscar
-    )
-    if resultado:
-        print("Estudiante encontrado:", resultado)
-    else:
-        print("Estudiante no encontrado.")
+    return resultados if resultados else None

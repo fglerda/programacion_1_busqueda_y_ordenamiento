@@ -1,4 +1,5 @@
 import csv
+import timeit
 from ordenar_estudiantes import ordenar_estudiantes
 from busqueda_estudiante import busqueda_binaria_estudiante
 
@@ -8,15 +9,16 @@ def cargar_estudiantes_csv(ruta):
     with open(ruta, encoding="utf-8") as archivo:
         lector = csv.DictReader(archivo)
         for fila in lector:
-            # Convertir promedio y legajo a float/int para búsquedas numéricas
+            # Convertir promedio a float para búsquedas numéricas
             fila["promedio"] = float(fila["promedio"])
+            # Convertir legajo a int para búsquedas numéricas
             fila["legajo"] = int(fila["legajo"])
             estudiantes.append(fila)
     return estudiantes
 
 
 def main():
-    ruta = "Integrador_programacion1/estudiantes.csv"
+    ruta = "estudiantes.csv"
     estudiantes = cargar_estudiantes_csv(ruta)
 
     print("Criterios disponibles: legajo, apellido, promedio")
@@ -38,13 +40,17 @@ def main():
         valor = int(valor)
     elif criterio == "promedio":
         valor = float(valor)
-
+    # Medir tiempo de búsqueda para la busqueda binaria
+    start_time = timeit.default_timer()
     resultado = busqueda_binaria_estudiante(estudiantes_ordenados, criterio, valor)
+    end_time = timeit.default_timer()
     if resultado:
-        print("\nEstudiante encontrado:")
-        print(resultado)
+        print("\nEstudiantes encontrados:")
+        for est in resultado:
+            print(est)  # Esto imprime todo el diccionario del estudiante
     else:
         print("\nEstudiante no encontrado.")
+    print(f"\nTiempo de búsqueda binaria: {end_time - start_time:.6f} segundos")
 
 
 if __name__ == "__main__":
