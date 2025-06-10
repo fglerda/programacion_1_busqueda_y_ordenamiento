@@ -52,8 +52,21 @@ def busqueda_binaria_estudiante(lista, criterio, valor_busqueda):
         elif criterio == "apellido":
             valor_actual_norm = normalizar(str(valor_actual))
             if valor_actual_norm == valor_busqueda:
-                resultados.append(estudiante)
-                return resultados
+                # Buscar todos los que tengan el mismo apellido (normalizado)
+                # Buscar hacia la izquierda
+                i = medio
+                while i >= 0 and normalizar(str(lista[i][criterio])) == valor_busqueda:
+                    resultados.append(lista[i])
+                    i -= 1
+                # Buscar hacia la derecha
+                i = medio + 1
+                while (
+                    i < len(lista)
+                    and normalizar(str(lista[i][criterio])) == valor_busqueda
+                ):
+                    resultados.append(lista[i])
+                    i += 1
+                return resultados if resultados else None
             elif valor_actual_norm < valor_busqueda:
                 izquierda = medio + 1
             else:
